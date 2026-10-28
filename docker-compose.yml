@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  validator-analyzer:
+    build: .
+    container_name: solana-validator-ordering-research
+    environment:
+      - PYTHONUNBUFFERED=1
+      # Private keys are injected strictly via host environment variables, never hardcoded in repo
+      - SOLANA_PRIVATE_KEY=${SOLANA_PRIVATE_KEY:-}
+    command: ["python", "order_analyzer.py", "--dry-run"]
+    volumes:
+      - ./analysis_results.json:/app/analysis_results.json:ro
+      - ./observed_validators.json:/app/observed_validators.json:ro

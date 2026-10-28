@@ -1,0 +1,287 @@
+[
+  {
+    "slot": 462604344,
+    "validator_pubkey": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+    "client_id": "Rakurai",
+    "version": "4.3.2",
+    "total_txs": 730,
+    "samples": [
+      {
+        "index": 0,
+        "relative_position": 0.0,
+        "signature": "2LbXJMcoADSQPaSDDXD9XQFkucPWvg7FtUAvpyrV51ocpAB8ugD6fiQdtjL3uQDC7iZYAacmfWzkRjEcFSsp3Des",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 58969,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 13
+      },
+      {
+        "index": 182,
+        "relative_position": 0.2493,
+        "signature": "3RivyeKQtSNxE4ManKHStNMx1ss2gCQL82dsgd5mUFryU45ZkBTPZ9afCsPMpFfnrRxcGATjpxfJHCBrZ5WjESSB",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 96504,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 10
+      }
+    ]
+  },
+  {
+    "slot": 462604343,
+    "validator_pubkey": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+    "client_id": "FireBAM",
+    "version": "26.10.5",
+    "total_txs": 633,
+    "samples": [
+      {
+        "index": 0,
+        "relative_position": 0.0,
+        "signature": "3VMRxfXXGXnLZiKrcFh5tPnmrLJrxaEMipwEfcXg3BEHaurezoDAd2PXhdJGPi7eeJqXR7YLtq9WLZrZmJYapzm4",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 2363,
+        "fee_lamports": 5131,
+        "is_jito_tip": false,
+        "write_locks_count": 2
+      },
+      {
+        "index": 316,
+        "relative_position": 0.4992,
+        "signature": "3GWakAjCTkRPVzzGHpS15FZrBJ5V1ti8u3hEXHTQfE9a8afPDbqpoom6PJgacQJzu8uP3GQGjB1XS2dgDpWp8gjU",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 129881,
+        "fee_lamports": 12775,
+        "is_jito_tip": false,
+        "write_locks_count": 22
+      },
+      {
+        "index": 474,
+        "relative_position": 0.7488,
+        "signature": "nb4TzJC2h7pEd4a9hNH9xYWE2YFQR4G4eZE3N2K995u5WCadihCVUSyAGfaJG8hcuFBTSL9NU6V4U8wjd3k4jth",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 196595,
+        "fee_lamports": 6375,
+        "is_jito_tip": false,
+        "write_locks_count": 10
+      }
+    ]
+  },
+  {
+    "slot": 462604339,
+    "validator_pubkey": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+    "client_id": "HarmonicAgave",
+    "version": "4.3.2",
+    "total_txs": 1072,
+    "samples": [
+      {
+        "index": 0,
+        "relative_position": 0.0,
+        "signature": "3WefzkLpp4sG2p5WkZD7WT1tUMXcsVgYnzBPdb9LNihNmbbjCFht5wZwvveXc6TQBFiwTJHwMcXy5NEadczSCvui",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 768,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 2
+      },
+      {
+        "index": 53,
+        "relative_position": 0.0494,
+        "signature": "4ZoCn7zfjw4183QRmwLpdwxPMom33LEzij3fFcnEccbLgQ4iJ8dbavzi3sdyfLHqaiT43E8TNwjNiKS9un6ouEuL",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 1168,
+        "fee_lamports": 5001,
+        "is_jito_tip": false,
+        "write_locks_count": 8
+      },
+      {
+        "index": 268,
+        "relative_position": 0.25,
+        "signature": "5j6QFXRJdK1hGtBgaJUf4ctEsq4k9zdR9Sg487GGsSXmSx3pW3eUr9i8ra2rQFNvP25dTDNXBVb18TPRVjdfaWws",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 107094,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 9
+      },
+      {
+        "index": 1018,
+        "relative_position": 0.9496,
+        "signature": "4VMFuFQbUM2fjanCvaeA74iB3K5hsrqgHhkeKaA8idsPn9yrqmZVtjU2h48urqQ5eJFHcxfdJRAnDC43xJJsdb6",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 300,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 2
+      }
+    ]
+  },
+  {
+    "slot": 462604563,
+    "validator_pubkey": "LA1NEzryoih6CQW3gwQqJQffK2mKgnXcjSQZSRpM3wc",
+    "client_id": "FireBAM",
+    "version": "26.10.5",
+    "total_txs": 999,
+    "samples": [
+      {
+        "index": 0,
+        "relative_position": 0.0,
+        "signature": "3C6gwCz64kT2NKkqsrtXTMf5xNXZZLYCPiWP3vtWVgdD6L4Xu3vS2gafwi3cSs2jjZKCgz5vjGgXnPNuuAEgjQLR",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 2363,
+        "fee_lamports": 5131,
+        "is_jito_tip": false,
+        "write_locks_count": 2
+      },
+      {
+        "index": 49,
+        "relative_position": 0.049,
+        "signature": "m3MRRdagCWwwtqpyGJwsT5LEYvYewtdvQTScCnKayCSSr9K3tNsBndpYwwKgrTx8RqW4Q4gtGW5fqDcfSqmdHva",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 300,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 2
+      },
+      {
+        "index": 249,
+        "relative_position": 0.2492,
+        "signature": "5eaMME1HrPBkWrL53ZPz29RihyBH9G7CFmA9X8R8WqTxKqo3TCnmFzpZczVzYQBfj4ZGR5FSapxiqyA3Kq7MvNNE",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 2233,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 2
+      },
+      {
+        "index": 499,
+        "relative_position": 0.4995,
+        "signature": "45a33as4sysTe9G9gDpM7x6MdRtyukqKP4qigoTFbx1E6jaccGZTu9Gjq3S27TADbgb3FG4bGpznMFg5o2sR3oZ5",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 170595,
+        "fee_lamports": 10200,
+        "is_jito_tip": false,
+        "write_locks_count": 14
+      },
+      {
+        "index": 749,
+        "relative_position": 0.7497,
+        "signature": "5Khm5SkP1P94LfqSFbLGjjRn8imMKXzLFWs12jTamxcPrARc842pcCAdsqb9BjBzaG2hykx7NayL7HTCSdPhoNYa",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 144621,
+        "fee_lamports": 9403,
+        "is_jito_tip": false,
+        "write_locks_count": 20
+      },
+      {
+        "index": 949,
+        "relative_position": 0.9499,
+        "signature": "3dFgLNfA6RGgR1vFi72ydiAyCoMi7AoAghjqZTQgggjCehaAXxmjfVnKpwxmGUg6Qw77znvnVFTnX1V28mMTTHcd",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 150,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 2
+      }
+    ]
+  },
+  {
+    "slot": 462604564,
+    "validator_pubkey": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+    "client_id": "AgaveBam",
+    "version": "4.3.2",
+    "total_txs": 756,
+    "samples": [
+      {
+        "index": 0,
+        "relative_position": 0.0,
+        "signature": "4vxCVRdDh2uHAB9xRvCxKzWQRAoQUBcmRyXg4s8kRQgtQfd2hyY4CPtVkmhvUDQMy9jMZ6sT7w66cXVvHMjbbhbC",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 58969,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 13
+      },
+      {
+        "index": 189,
+        "relative_position": 0.25,
+        "signature": "4Vp4FQtKahYnDo5jVhb1XBGKMncxXk6huYKA77zQ49otME7dSx4ow9eudMHxxJNstyiVn4n4k4ekt3hrhkGTaTR",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 711,
+        "fee_lamports": 22500,
+        "is_jito_tip": false,
+        "write_locks_count": 3
+      },
+      {
+        "index": 567,
+        "relative_position": 0.75,
+        "signature": "5hpz9LmhhUo5RwQZWRASpxNUDyQ8MZFgy3RGtkK8roxKFMRYKEDimAoDLibbPomVSFRzJFgBUaq11WYMqNUEHYKk",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 37451,
+        "fee_lamports": 5410,
+        "is_jito_tip": false,
+        "write_locks_count": 6
+      }
+    ]
+  },
+  {
+    "slot": 462604568,
+    "validator_pubkey": "FzQqaDStQQHs52YKeCnDovwSqvyZBCgs2kJcmvoFZwaS",
+    "client_id": "HarmonicAgave",
+    "version": "4.3.2",
+    "total_txs": 699,
+    "samples": [
+      {
+        "index": 0,
+        "relative_position": 0.0,
+        "signature": "3dTunwQnrbfvNMJ8XKWQVKLiLeWCBkEeWCTx2YK9oMgfC4SHPXANUHfXnwuZQBkvHpijchoL3QZ89oTLLuism6KS",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 300,
+        "fee_lamports": 5000,
+        "is_jito_tip": false,
+        "write_locks_count": 2
+      },
+      {
+        "index": 349,
+        "relative_position": 0.4993,
+        "signature": "62kpLKWhkSFP18gsQEGHAy37Lzpj5CtJZu5MWALH9obbn4LUUzRkaVPqRYqnp7XbvG8q6mcMJfUq1azWLUEk7U6a",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 1526,
+        "fee_lamports": 6323,
+        "is_jito_tip": false,
+        "write_locks_count": 8
+      },
+      {
+        "index": 524,
+        "relative_position": 0.7496,
+        "signature": "39y4hG8XsFa4fKLqHJXcmYr6f8n1qUfbzFm2TNzh8XtKBTVczowjUuJqR6DcX4jNckESHH8sKVAdwnXKYRhVQMQd",
+        "cu_price_microlamports": 0,
+        "cu_limit": 200000,
+        "cu_consumed": 711,
+        "fee_lamports": 22500,
+        "is_jito_tip": false,
+        "write_locks_count": 3
+      }
+    ]
+  }
+]
